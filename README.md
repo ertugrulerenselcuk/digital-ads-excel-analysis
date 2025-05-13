@@ -98,10 +98,3 @@ Bu denklemle reklam bütçenize göre satış tahmininde bulunabilirsiniz.
 Ben Türkiye'den bir veri analisti adayıyım. Excel, SQL, Power BI ve Python üzerine çalışıyorum. Bu proje, dijital pazarlama verilerini analiz ederek içgörü çıkarma yeteneğimi geliştirmek adına önemli bir adımdı.
 
 ---
-
-## 📥 Kullanım Talimatı
-
-1. Projeyi GitHub’a yükle.
-2. `images/` klasörüne görselleri ekle (görselleri yukarıdaki adlarla adlandır).
-3. Bu `README.md` dosyasını proje dizinine yerleştir.
-4. GitHub’da paylaş ve LinkedIn’de "Featured" alanına ekle.
